@@ -50,6 +50,4 @@
       <b>Smeden</b> - Rum med 2 bäddar, delat kök utedass och delad
       dusch. Pris: natt Pris vecka: Pris lakan:
 
-    </div>
-  </body>
-</html>
+      <?php include('tail.html') ?>

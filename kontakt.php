@@ -17,8 +17,6 @@
 
       <br/><br/>
 
-      <center><img src="images/djur.jpg" /></center>
+      <img src="images/djur.jpg" class="center" />
 
-    </div>
-  </body>
-</html>
+      <?php include('tail.html') ?>
