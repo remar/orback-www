@@ -1,4 +1,4 @@
-    <?php global $page; $page = 2; ?>
+    <?php global $page; $page = 3; ?>
 
     <?php include('head.html'); ?>
 
