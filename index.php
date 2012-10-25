@@ -2,7 +2,7 @@
 
     <?php include('head.html'); ?>
 
-    <div style="background-color: white;width:750px;border-style: solid;border-width:2px;padding: 0px 20px;background-image: url(images/djur_ljus.jpg);background-repeat:no-repeat;background-position: center">
+    <div style="background-color: white;width:750px;border-style: solid;border-width:2px;padding: 0px 20px">
       <h1>Örbäck</h1>
 
       Är en levande gård i samspel med natur, djur, odlingar, visioner
